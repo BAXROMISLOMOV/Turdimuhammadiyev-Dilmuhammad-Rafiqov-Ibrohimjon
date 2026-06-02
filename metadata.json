@@ -1,0 +1,6 @@
+{
+  "name": "Logisim va Mantiqiy Sxemalar",
+  "description": "Diskret tuzilmalar fanidan mantiqiy sxemalarni loyihalash va tahlil qilish uchun interaktiv qo'llanma, Logisim simulyatori va 3 ta o'yin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
